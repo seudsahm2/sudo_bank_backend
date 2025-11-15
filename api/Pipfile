@@ -16,6 +16,10 @@ argon2-cffi = "*"
 djoser = "*"
 django-filter = "*"
 django-celery-email = "*"
+django-celery-beat = "*"
+cloudinary = "*"
+python-dateutil = "*"
+psycopg2-binary = "*"
 
 [dev-packages]
 watchfiles = "*"
