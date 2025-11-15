@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-django = "5.0.0"
+django = "5.2.8"
 python-dotenv = "*"
 djangorestframework = "*"
 django-countries = "*"
@@ -20,6 +20,7 @@ django-celery-beat = "*"
 cloudinary = "*"
 python-dateutil = "*"
 psycopg2-binary = "*"
+loguru = "*"
 
 [dev-packages]
 watchfiles = "*"

@@ -1,0 +1,6 @@
+ 2025-11-15 at 16:12:44 | DEBUG    | core_apps.user_auth.views:get - this is a debug message
+ 2025-11-15 at 16:12:44 | INFO     | core_apps.user_auth.views:get - this is a info message
+ 2025-11-15 at 16:12:44 | WARNING  | core_apps.user_auth.views:get - this is a warning message
+ 2025-11-15 at 16:13:32 | DEBUG    | core_apps.user_auth.views:get - this is a debug message
+ 2025-11-15 at 16:13:32 | INFO     | core_apps.user_auth.views:get - this is a info message
+ 2025-11-15 at 16:13:32 | WARNING  | core_apps.user_auth.views:get - this is a warning message

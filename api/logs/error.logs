@@ -1,0 +1,2 @@
+ 2025-11-15 at 16:13:32 | ERROR    | core_apps.user_auth.views:get - this is a error message
+ 2025-11-15 at 16:13:32 | CRITICAL | core_apps.user_auth.views:get - this is a critical message
